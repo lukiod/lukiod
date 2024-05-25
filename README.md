@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Backend,Machine Learning**
 
-- 📂 Current project using Django Framework [Society Expenditure Tracker](https://github.com/lukiod/Society-Expenditure-Tracker.git)
+<!-- - 📂 Current project using Django Framework [](https://github.com/lukiod/Society-Expenditure-Tracker.git) -->
 
-- 🤝 Project using Machine Learning [Info Finding Tool](https://github.com/lukiod/INFO-FINDING-TOOL.git)
+- 🤝 Project using Machine Learning [Retinal Vessel Segmentation](https://github.com/lukiod/INFO-FINDING-TOOL.git)
 
 - 💬 Ask me about **Django, Machine Learning, MERN stack**
 
-- 📫 How to reach me **aichakanshu2003@gmail.com**
+- 📫 How to reach me **mohakgupta0981@gmail.com@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1U_uDnnFpOtjsVasQUeX0DgIS3dMbqDdp/view?usp=sharing](https://drive.google.com/file/d/1U_uDnnFpOtjsVasQUeX0DgIS3dMbqDdp/view?usp=sharing)
 
