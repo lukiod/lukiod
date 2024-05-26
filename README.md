@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukiod" alt="lukiod" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akanshaich" target="blank"><img src="https://img.shields.io/twitter/follow/akanshaich?logo=twitter&style=for-the-badge" alt="akanshaich" /></a> </p>
-
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🔭 I’m currently working on [DeepFake Detection](https://github.com/lukiod/)
