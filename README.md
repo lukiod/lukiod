@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- - 📂 Current project using Django Framework [](https://github.com/lukiod/Society-Expenditure-Tracker.git) -->
 
-- 🤝 Project using Machine Learning [Retinal Vessel Segmentation](https://github.com/lukiod/INFO-FINDING-TOOL.git)
+- 🤝 Project using Machine Learning [Retinal Vessel Segmentation](https://github.com/lukiod/Retinal-Vessel-Segment.git)
 
 - 💬 Ask me about **Django, Machine Learning, MERN stack**
 
