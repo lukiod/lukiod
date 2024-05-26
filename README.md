@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 🔭 I’m currently working on [Real Estate Website](https://github.com/lukiod/RealEstate-Mern.git)
+- <!--🔭 I’m currently working on [Real Estate Website](https://github.com/lukiod/RealEstate-Mern.git) -->
 
 - 🌱 I’m currently learning **Backend,Machine Learning**
 
@@ -35,24 +35,22 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Django, Machine Learning, MERN stack**
 
-- 📫 How to reach me **mohakgupta0981@gmail.com@gmail.com**
+- 📫 How to reach me **mohakgupta0981@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U_uDnnFpOtjsVasQUeX0DgIS3dMbqDdp/view?usp=sharing](https://drive.google.com/file/d/1U_uDnnFpOtjsVasQUeX0DgIS3dMbqDdp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1snQVMn8iUBs8m-W9IbE7oc-lqTvBA30Q/view?usp=sharing](https://drive.google.com/file/d/1snQVMn8iUBs8m-W9IbE7oc-lqTvBA30Q/view?usp=sharing)
 
 - ⚡ Fun fact **I have a twin😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akanshaich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akanshaich" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akanshu-aich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanshu-aich" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gupta-mohak target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanshu-aich" height="30" width="40" /></a>
 <a href="https://kaggle.com/lukiod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lukiod" height="30" width="40" /></a>
-<a href="https://instagram.com/akanshu_ak20_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akanshu_ak20_" height="30" width="40" /></a>
-<a href="https://medium.com/@aichakanshu2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aichakanshu2003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akan_2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akan_2003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aichakanshu2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aichakanshu2003" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/akan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akan2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akan2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aichakanshu2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aichakanshu2003" height="30" width="40" /></a>
+<a href="https://instagram.com/mohak_.0981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akanshu_ak20_" height="30" width="40" /></a>
+<a href="https://medium.com/@mohakgupta0981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aichakanshu2003" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/lukiod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akan2003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohak0981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akan2003" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mohakguptfq8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aichakanshu2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
