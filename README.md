@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- <!--🔭 I’m currently working on [Real Estate Website](https://github.com/lukiod/RealEstate-Mern.git) -->
+- 🔭 I’m currently working on [DeepFake Detection](https://github.com/lukiod/)
 
 - 🌱 I’m currently learning **Backend,Machine Learning**
 
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akanshaich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akanshaich" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gupta-mohak target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanshu-aich" height="30" width="40" /></a>
 <a href="https://kaggle.com/lukiod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lukiod" height="30" width="40" /></a>
 <a href="https://instagram.com/mohak_.0981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akanshu_ak20_" height="30" width="40" /></a>
