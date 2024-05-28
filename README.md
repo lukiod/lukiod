@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 🔭 I’m currently working on [Multiple PDF Summarizer](https://github.com/lukiod/)
+- 🔭 I’m currently working on [Multiple PDF Summarizer](https://github.com/lukiod/Homework-Bot)
 
 - 🌱 I’m currently learning **Backend,Machine Learning**
 
