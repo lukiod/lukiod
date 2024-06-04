@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **mohakgupta0981@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1snQVMn8iUBs8m-W9IbE7oc-lqTvBA30Q/view?usp=sharing](https://drive.google.com/file/d/1snQVMn8iUBs8m-W9IbE7oc-lqTvBA30Q/view?usp=sharing)
+  
+- 📅 Want to Know What i do in daily check out my logs [logs.md]()
 
 - ⚡ Fun fact **I have a twin😁**
 
