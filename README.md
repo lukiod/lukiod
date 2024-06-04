@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1snQVMn8iUBs8m-W9IbE7oc-lqTvBA30Q/view?usp=sharing](https://drive.google.com/file/d/1snQVMn8iUBs8m-W9IbE7oc-lqTvBA30Q/view?usp=sharing)
   
-- 📅 Want to Know What i do in daily check out my logs [logs.md]()
+- 📅 Want to Know What i do in daily check out my logs [logs](https://github.com/lukiod/logs)
 
 - ⚡ Fun fact **I have a twin😁**
 
