@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mohak Gupta </h1>
-<h3 align="center">A passionate full stack developer and ML/DL Enthusiast from India</h3>
+<h3 align="center">A passionate Full Stack Developer and ML/DL Enthusiast from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukiod&label=Profile%20views&color=0e75b6&style=flat" alt="lukiod" /> </p>
