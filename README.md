@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gupta-mohak target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanshu-aich" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gupta-mohak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanshu-aich" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/airwakss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lukiod" height="30" width="40" /></a>
 <a href="https://instagram.com/mohak_.0981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akanshu_ak20_" height="30" width="40" /></a>
 <a href="https://medium.com/@mohakgupta0981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aichakanshu2003" height="30" width="40" /></a>
