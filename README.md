@@ -1,8 +1,8 @@
-### Hey 👋, I'm Rick
+### Hey 👋, I'm Mohak
 
 [![Github](https://img.shields.io/github/followers/lukiod?label=Follow&style=social)](https://github.com/lukiod)
 
-I'm a Robotics master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
+I'm Computer science bachlor's student passionate about solving complicated problems and creating software solutions. I :heart: Open Source and therefore enjoy working on interesting open source projects .
 
 <!-- Light Mode -->
 <div align="center"> 
