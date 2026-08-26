@@ -10,10 +10,6 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 * ML infra and debugger tooling → gdb/lldb pretty printers, inference optimization, CUDA scheduling
 * Trustworthy AI → federated learning, zero knowledge proofs, explainability
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,go,ts,react,docker,linux,git,githubactions" />
-</p>
-
 ---
 
 **Merged PRs, last 30 days** (auto updates, not hand edited)
