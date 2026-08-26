@@ -1,9 +1,3 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=120&section=header)
-
-</div>
-
 ### Hey, I'm Mohak. I build agent systems that ship real code, not demos
 
 [![Github](https://img.shields.io/github/followers/lukiod?label=Follow&style=social)](https://github.com/lukiod)
@@ -22,7 +16,7 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 
 ---
 
-**Recently merged** (auto updates from real merged PRs, not hand edited)
+**Merged PRs, last 30 days** (auto updates, not hand edited)
 
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
@@ -37,6 +31,10 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp/pull/1521) | test: cover wrong JSON types in the MCP robustness layer |
 | [bkuan001/halo-record](https://github.com/bkuan001/halo-record/pull/8) | Fix chain verification propagating a stale self-declared hash after a break |
 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading/pull/1086) | fix(onboard): create .env.partial with owner only permissions |
+| [yzhao062/awesome-auditable-ai](https://github.com/yzhao062/awesome-auditable-ai/pull/8) | Standards: add the tamper-evident log and attestation primitives |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute/pull/8828) | chore(quality): add an RTL layout ratchet |
+| [usestrix/strix](https://github.com/usestrix/strix/pull/945) | Create credential files with owner-only permissions |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp/pull/1313) | fix(graph-ui): rank Accept-Language by q instead of substring match |
 <!-- RECENT-PRS:END -->
 
 ---
@@ -48,16 +46,3 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 * AI Intern, Golden Bird Healthcare → multimodal clinical documentation system, 82% Dice score
 * Zerobase Startup School (top 20, Korea) · Google for Startups x Antler
 
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukiod/lukiod/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukiod/lukiod/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/lukiod/lukiod/output/github-contribution-grid-snake.svg" />
-</picture>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=100&section=footer)
-
-</div>

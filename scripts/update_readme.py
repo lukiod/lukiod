@@ -6,44 +6,47 @@ from datetime import datetime, timedelta, timezone
 
 TOKEN = os.environ["GITHUB_TOKEN"]
 QUERY = "author:lukiod+type:pr+is:merged"
-URL = f"https://api.github.com/search/issues?q={QUERY}&sort=updated&order=desc&per_page=50"
-
-req = urllib.request.Request(
-    URL,
-    headers={
-        "Authorization": f"Bearer {TOKEN}",
-        "Accept": "application/vnd.github+json",
-    },
-)
-items = json.load(urllib.request.urlopen(req))["items"]
-
-cutoff = datetime.now(timezone.utc) - timedelta(days=30)
-MIN_ROWS = 5
+CUTOFF = datetime.now(timezone.utc) - timedelta(days=30)
 
 candidates = []
-for item in items:
-    repo = "/".join(item["repository_url"].split("/")[-2:])
-    if repo.startswith("MershLab/") or repo.startswith("lukiod/"):
-        continue
-    merged_at = item.get("pull_request", {}).get("merged_at")
-    if not merged_at:
-        continue
-    candidates.append((
-        datetime.fromisoformat(merged_at.replace("Z", "+00:00")),
-        f"| [{repo}]({item['html_url']}) | {item['title']} |",
-    ))
+for page in range(1, 6):  # 500 results is generous headroom over real history
+    url = (
+        f"https://api.github.com/search/issues?q={QUERY}"
+        f"&sort=updated&order=desc&per_page=100&page={page}"
+    )
+    req = urllib.request.Request(
+        url,
+        headers={
+            "Authorization": f"Bearer {TOKEN}",
+            "Accept": "application/vnd.github+json",
+        },
+    )
+    items = json.load(urllib.request.urlopen(req))["items"]
+    if not items:
+        break
+
+    for item in items:
+        repo = "/".join(item["repository_url"].split("/")[-2:])
+        merged_at = item.get("pull_request", {}).get("merged_at")
+        if not merged_at:
+            continue
+        merged_dt = datetime.fromisoformat(merged_at.replace("Z", "+00:00"))
+        if merged_dt < CUTOFF:
+            continue
+        if repo.startswith("MershLab/") or repo.startswith("lukiod/"):
+            continue
+        candidates.append((merged_at, f"| [{repo}]({item['html_url']}) | {item['title']} |"))
+
+    if len(items) < 100:
+        break
 
 candidates.sort(key=lambda c: c[0], reverse=True)
-
-# Prefer the last 30 days; if that's thin, fall back to the next most
-# recent merges regardless of age rather than leaving the section empty.
-recent = [row for merged_dt, row in candidates if merged_dt >= cutoff]
-rows = recent if len(recent) >= MIN_ROWS else [row for _, row in candidates[:MIN_ROWS]]
+rows = [row for _, row in candidates]
 
 if rows:
     table = "| Repo | What it was |\n|---|---|\n" + "\n".join(rows)
 else:
-    table = "_Nothing merged yet._"
+    table = "_Nothing merged in the last month._"
 
 with open("README.md") as f:
     content = f.read()
