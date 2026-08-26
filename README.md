@@ -1,18 +1,26 @@
-### Hey, I'm Mohak. I build agent systems that ship real code, not demos
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=160&section=header&text=Mohak%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agent%20systems%20that%20ship%20real%20code%2C%20not%20demos&descAlignY=58&descSize=16)
 
 [![Github](https://img.shields.io/github/followers/lukiod?label=Follow&style=social)](https://github.com/lukiod)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta-mohak)
 
-I run an agent pipeline that finds real bugs across tracked repos, fixes them, tests them, and ships the PR directly, no staging step, no rubber stamp. Most of what's below came out of that.
+</div>
+
+I run an agent pipeline that finds real bugs across tracked repos, fixes them, tests them, and ships the PR directly. No staging step, no rubber stamp. Most of what's below came out of that.
 
 **What I work on**
-- Agent pipelines that source, fix, test, and ship real code with no human in the loop until it's already merged
-- ML infra and debugger tooling: gdb/lldb pretty printers, inference optimization, CUDA scheduling
-- Federated learning, zero knowledge proofs, and explainability for trustworthy AI systems
+* Agent pipelines → source, fix, test, ship real code, no human in the loop until it's already merged
+* ML infra and debugger tooling → gdb/lldb pretty printers, inference optimization, CUDA scheduling
+* Trustworthy AI → federated learning, zero knowledge proofs, explainability
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,go,ts,react,docker,linux,git,githubactions" />
+</p>
 
 ---
 
-**Recently merged** (auto-updates from real merged PRs, not hand edited)
+**Recently merged** (auto updates from real merged PRs, not hand edited)
 
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
@@ -32,15 +40,25 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 ---
 
 **Background**
-- Built backend and automation infrastructure for a data-driven marketing platform, real recurring revenue
-- Cerebras Fellowship, paper to deployable product on Cerebras hardware
-- Deep Learning Research Intern, IIT Roorkee, SegFormer and CFAN work, 82% mIoU
-- AI Intern, Golden Bird Healthcare, multimodal clinical documentation system, 82% Dice score
-- Zerobase Startup School (top 20, Korea) · Google for Startups x Antler
+* Backend and automation infrastructure for a data-driven marketing platform → real recurring revenue
+* Cerebras Fellowship → paper to deployable product on Cerebras hardware
+* Deep Learning Research Intern, IIT Roorkee → SegFormer and CFAN work, 82% mIoU
+* AI Intern, Golden Bird Healthcare → multimodal clinical documentation system, 82% Dice score
+* Zerobase Startup School (top 20, Korea) · Google for Startups x Antler
 
 ---
 
 <div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=lukiod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukiod&theme=vue-dark&layout=compact&hide_border=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukiod/lukiod/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukiod/lukiod/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/lukiod/lukiod/output/github-contribution-grid-snake.svg" />
+</picture>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=100&section=footer)
+
 </div>
