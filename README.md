@@ -12,7 +12,7 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 
 ---
 
-**Merged this month** (auto-updates from real merged PRs, not hand edited)
+**Recently merged** (auto-updates from real merged PRs, not hand edited)
 
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
@@ -23,9 +23,9 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 | [microsoft/apm](https://github.com/microsoft/apm/pull/2643) | fix(audit): allow local Claude-skill deps to omit apm.yml |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/982) | Parse family import scanning with ast instead of regex |
 | [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark/pull/15682) | Remove inert InMemoryTableScanExec allowances in cache_test.py [databricks] |
-| [bkuan001/halo-record](https://github.com/bkuan001/halo-record/pull/8) | Fix chain verification propagating a stale self-declared hash after a break |
 | [griddynamics/rosetta](https://github.com/griddynamics/rosetta/pull/294) | Remove dead _validate_topic function |
 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp/pull/1521) | test: cover wrong JSON types in the MCP robustness layer |
+| [bkuan001/halo-record](https://github.com/bkuan001/halo-record/pull/8) | Fix chain verification propagating a stale self-declared hash after a break |
 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading/pull/1086) | fix(onboard): create .env.partial with owner only permissions |
 <!-- RECENT-PRS:END -->
 

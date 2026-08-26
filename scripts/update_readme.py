@@ -18,8 +18,9 @@ req = urllib.request.Request(
 items = json.load(urllib.request.urlopen(req))["items"]
 
 cutoff = datetime.now(timezone.utc) - timedelta(days=30)
+MIN_ROWS = 5
 
-rows = []
+candidates = []
 for item in items:
     repo = "/".join(item["repository_url"].split("/")[-2:])
     if repo.startswith("MershLab/") or repo.startswith("lukiod/"):
@@ -27,15 +28,22 @@ for item in items:
     merged_at = item.get("pull_request", {}).get("merged_at")
     if not merged_at:
         continue
-    merged_dt = datetime.fromisoformat(merged_at.replace("Z", "+00:00"))
-    if merged_dt < cutoff:
-        continue
-    rows.append(f"| [{repo}]({item['html_url']}) | {item['title']} |")
+    candidates.append((
+        datetime.fromisoformat(merged_at.replace("Z", "+00:00")),
+        f"| [{repo}]({item['html_url']}) | {item['title']} |",
+    ))
+
+candidates.sort(key=lambda c: c[0], reverse=True)
+
+# Prefer the last 30 days; if that's thin, fall back to the next most
+# recent merges regardless of age rather than leaving the section empty.
+recent = [row for merged_dt, row in candidates if merged_dt >= cutoff]
+rows = recent if len(recent) >= MIN_ROWS else [row for _, row in candidates[:MIN_ROWS]]
 
 if rows:
     table = "| Repo | What it was |\n|---|---|\n" + "\n".join(rows)
 else:
-    table = "_Nothing merged in the last month._"
+    table = "_Nothing merged yet._"
 
 with open("README.md") as f:
     content = f.read()
