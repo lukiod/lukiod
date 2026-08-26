@@ -1,11 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=160&section=header&text=Mohak%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agent%20systems%20that%20ship%20real%20code%2C%20not%20demos&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=120&section=header)
+
+</div>
+
+### Hey, I'm Mohak. I build agent systems that ship real code, not demos
 
 [![Github](https://img.shields.io/github/followers/lukiod?label=Follow&style=social)](https://github.com/lukiod)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta-mohak)
-
-</div>
 
 I run an agent pipeline that finds real bugs across tracked repos, fixes them, tests them, and ships the PR directly. No staging step, no rubber stamp. Most of what's below came out of that.
 
@@ -49,9 +51,6 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 ---
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lukiod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukiod&theme=vue-dark&layout=compact&hide_border=true" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukiod/lukiod/output/github-contribution-grid-snake-dark.svg" />
