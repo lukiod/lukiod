@@ -1,4 +1,4 @@
-### Hey, I'm Mohak — I build agent systems that ship real code, not demos
+### Hey, I'm Mohak. I build agent systems that ship real code, not demos
 
 [![Github](https://img.shields.io/github/followers/lukiod?label=Follow&style=social)](https://github.com/lukiod)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta-mohak)
@@ -33,9 +33,9 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 
 **Background**
 - Built backend and automation infrastructure for a data-driven marketing platform, real recurring revenue
-- Cerebras Fellowship — paper to deployable product on Cerebras hardware
-- Deep Learning Research Intern, IIT Roorkee — SegFormer/CFAN work, 82% mIoU
-- AI Intern, Golden Bird Healthcare — multimodal clinical documentation system, 82% Dice score
+- Cerebras Fellowship, paper to deployable product on Cerebras hardware
+- Deep Learning Research Intern, IIT Roorkee, SegFormer and CFAN work, 82% mIoU
+- AI Intern, Golden Bird Healthcare, multimodal clinical documentation system, 82% Dice score
 - Zerobase Startup School (top 20, Korea) · Google for Startups x Antler
 
 ---
