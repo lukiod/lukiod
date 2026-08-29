@@ -13,7 +13,7 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 
 ---
 
-**Merged PRs, last 30 days** (auto updates, not hand edited)
+**Merged PRs, last 30 days**
 
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
