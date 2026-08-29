@@ -18,6 +18,7 @@ I run an agent pipeline that finds real bugs across tracked repos, fixes them, t
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
 |---|---|
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor/pull/741) | Create auth secret and token files with owner-only permissions |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/981) | fix(cli): unify kv-cache-size byte parser between CLI and benchmark |
 | [tenstorrent/whisper](https://github.com/tenstorrent/whisper/pull/50) | Do not let MXR disable pointer masking in M-mode |
 | [tenstorrent/tt-installer](https://github.com/tenstorrent/tt-installer/pull/157) | fix(installer): disable firmware updates by default in container mode |
