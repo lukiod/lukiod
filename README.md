@@ -4,11 +4,9 @@
 [![Github](https://img.shields.io/github/followers/lukiod?label=Follow&style=social)](https://github.com/lukiod)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta-mohak)
 
-I run an agent pipeline that finds real bugs across tracked repos, fixes them, tests them, and ships the PR directly. No staging step, no rubber stamp. Most of what's below came out of that.
-
 **What I work on**
-* Agent pipelines → source, fix, test, ship real code, no human in the loop until it's already merged
-* ML infra and debugger tooling → gdb/lldb pretty printers, inference optimization, CUDA scheduling
+* Agent pipelines → source, fix, test, ship real code
+* ML infra and debugger tooling → inference optimization, CUDA scheduling
 * Trustworthy AI → federated learning, zero knowledge proofs, explainability
 
 ---
