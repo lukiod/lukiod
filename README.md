@@ -16,6 +16,7 @@
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
 |---|---|
+| [microsoft/apm](https://github.com/microsoft/apm/pull/2685) | fix: load_frontmatter decodes utf-8-sig so a BOM does not hide the fence |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor/pull/741) | Create auth secret and token files with owner-only permissions |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/981) | fix(cli): unify kv-cache-size byte parser between CLI and benchmark |
 | [tenstorrent/whisper](https://github.com/tenstorrent/whisper/pull/50) | Do not let MXR disable pointer masking in M-mode |
@@ -30,7 +31,6 @@
 | [yzhao062/awesome-auditable-ai](https://github.com/yzhao062/awesome-auditable-ai/pull/8) | Standards: add the tamper-evident log and attestation primitives |
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute/pull/8828) | chore(quality): add an RTL layout ratchet |
 | [usestrix/strix](https://github.com/usestrix/strix/pull/945) | Create credential files with owner-only permissions |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp/pull/1313) | fix(graph-ui): rank Accept-Language by q instead of substring match |
 <!-- RECENT-PRS:END -->
 
 ---
