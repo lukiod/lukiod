@@ -12,12 +12,17 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+        with:
+          # take the branch tip, not the sha the run was pinned to: a re-run
+          # otherwise commits onto a parent an earlier attempt already moved
+          # past, and the push is rejected as non fast forward
+          ref: ${{ github.ref_name }}
       - name: Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/update_readme.py
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update recent PRs"
           file_pattern: README.md
