@@ -16,6 +16,7 @@
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
 |---|---|
+| [microsoft/vcpkg](https://github.com/microsoft/vcpkg/pull/53660) | [libaio] fix broken download source |
 | [microsoft/apm](https://github.com/microsoft/apm/pull/2685) | fix: load_frontmatter decodes utf-8-sig so a BOM does not hide the fence |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor/pull/741) | Create auth secret and token files with owner-only permissions |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/981) | fix(cli): unify kv-cache-size byte parser between CLI and benchmark |
