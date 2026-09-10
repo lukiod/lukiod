@@ -16,6 +16,11 @@
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
 |---|---|
+| [NVIDIA/gpu-driver-container](https://github.com/NVIDIA/gpu-driver-container/pull/986) | Guard unzboot copy by arch in ocp_dtk_entrypoint, amd64 doesn't have the binary |
+| [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1201) | fix(bark): check cudaMalloc status before committing sampler capacity |
+| [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1222) | fix(bart): check cudaMalloc status for cross-attention buffers |
+| [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1223) | fix(whisper): check cudaMalloc status for cross-attention buffers |
+| [microsoft/fluentui](https://github.com/microsoft/fluentui/pull/36639) | fix(react-utilities): add loading to img element property whitelist |
 | [microsoft/apm](https://github.com/microsoft/apm/pull/2686) | fix: resolve the admin policy dir's ProgramData from the environment |
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg/pull/53660) | [libaio] fix broken download source |
 | [microsoft/apm](https://github.com/microsoft/apm/pull/2685) | fix: load_frontmatter decodes utf-8-sig so a BOM does not hide the fence |
@@ -31,8 +36,6 @@
 | [bkuan001/halo-record](https://github.com/bkuan001/halo-record/pull/8) | Fix chain verification propagating a stale self-declared hash after a break |
 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading/pull/1086) | fix(onboard): create .env.partial with owner only permissions |
 | [yzhao062/awesome-auditable-ai](https://github.com/yzhao062/awesome-auditable-ai/pull/8) | Standards: add the tamper-evident log and attestation primitives |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute/pull/8828) | chore(quality): add an RTL layout ratchet |
-| [usestrix/strix](https://github.com/usestrix/strix/pull/945) | Create credential files with owner-only permissions |
 <!-- RECENT-PRS:END -->
 
 ---
