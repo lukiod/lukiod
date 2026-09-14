@@ -16,6 +16,9 @@
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
 |---|---|
+| [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1234) | fix(marian): check cudaMalloc status for cross-attention and encoder mask buffers |
+| [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1232) | fix(m2m_100): check cudaMalloc status for cross-attention buffers |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman/pull/5305) | Fall back to CIM when wmic is unavailable |
 | [NVIDIA/gpu-driver-container](https://github.com/NVIDIA/gpu-driver-container/pull/986) | Guard unzboot copy by arch in ocp_dtk_entrypoint, amd64 doesn't have the binary |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1201) | fix(bark): check cudaMalloc status before committing sampler capacity |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1222) | fix(bart): check cudaMalloc status for cross-attention buffers |
@@ -32,10 +35,6 @@
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/982) | Parse family import scanning with ast instead of regex |
 | [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark/pull/15682) | Remove inert InMemoryTableScanExec allowances in cache_test.py [databricks] |
 | [griddynamics/rosetta](https://github.com/griddynamics/rosetta/pull/294) | Remove dead _validate_topic function |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp/pull/1521) | test: cover wrong JSON types in the MCP robustness layer |
-| [bkuan001/halo-record](https://github.com/bkuan001/halo-record/pull/8) | Fix chain verification propagating a stale self-declared hash after a break |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading/pull/1086) | fix(onboard): create .env.partial with owner only permissions |
-| [yzhao062/awesome-auditable-ai](https://github.com/yzhao062/awesome-auditable-ai/pull/8) | Standards: add the tamper-evident log and attestation primitives |
 <!-- RECENT-PRS:END -->
 
 ---
