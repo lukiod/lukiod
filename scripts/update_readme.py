@@ -2,11 +2,12 @@ import json
 import os
 import re
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 
 TOKEN = os.environ["GITHUB_TOKEN"]
 QUERY = "author:lukiod+type:pr+is:merged"
-CUTOFF = datetime.now(timezone.utc) - timedelta(days=30)
+_now = datetime.now(timezone.utc)
+CUTOFF = _now.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
 
 candidates = []
 for page in range(1, 6):  # 500 results is generous headroom over real history
@@ -46,7 +47,7 @@ rows = [row for _, row in candidates]
 if rows:
     table = "| Repo | What it was |\n|---|---|\n" + "\n".join(rows)
 else:
-    table = "_Nothing merged in the last month._"
+    table = "_Nothing merged this month yet._"
 
 with open("README.md") as f:
     content = f.read()
