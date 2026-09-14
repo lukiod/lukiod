@@ -16,6 +16,7 @@
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
 |---|---|
+| [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1233) | fix(t5): check cudaMalloc status for cross-attention and encoder mask buffers |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1234) | fix(marian): check cudaMalloc status for cross-attention and encoder mask buffers |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1232) | fix(m2m_100): check cudaMalloc status for cross-attention buffers |
 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman/pull/5305) | Fall back to CIM when wmic is unavailable |
