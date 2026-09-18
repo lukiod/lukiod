@@ -16,6 +16,15 @@
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
 |---|---|
+| [BasedHardware/omi](https://github.com/BasedHardware/omi/pull/14188) | fix(hive-app): refuse an ambiguous target when creating a task |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi/pull/13865) | fix(ms365): read tool parameters from the flat body the Omi backend sends |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi/pull/13867) | fix(twitter-chat-tools): keep max_results inside each X endpoint's range |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi/pull/13861) | fix(google-calendar): emit usable event ids from list_events and create_event |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi/pull/14177) | fix(slack-app): post only to an unambiguous channel |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi/pull/14186) | fix(linear-app): refuse an ambiguous status name instead of picking the first match |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi/pull/13863) | fix(notion): emit usable page, database and entry ids from the listing tools |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi/pull/13973) | fix(coingecko-app): accept null optional tool parameters as defaults |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi/pull/13975) | fix(app-tools): send only the arguments the model supplied to app tools |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1233) | fix(t5): check cudaMalloc status for cross-attention and encoder mask buffers |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1234) | fix(marian): check cudaMalloc status for cross-attention and encoder mask buffers |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1232) | fix(m2m_100): check cudaMalloc status for cross-attention buffers |
