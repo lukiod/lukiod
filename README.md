@@ -16,6 +16,7 @@
 <!-- RECENT-PRS:START -->
 | Repo | What it was |
 |---|---|
+| [microsoft/PyRIT](https://github.com/microsoft/PyRIT/pull/2777) | MAINT: Fix JUnit result publication condition and add raw artifact upload |
 | [microsoft/pyright](https://github.com/microsoft/pyright/pull/11791) | Fix class-scope PEP 695 type alias resolution under postponed annotations |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1391) | fix(bark): check the multinomial device query before sizing the launch |
 | [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1394) | fix(lance): report a bailed out VL test body as a skip, not a pass |
